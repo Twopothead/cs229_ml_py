@@ -1,5 +1,6 @@
-
 vscode/
+*.pdf
+*.m
 # Created by https://www.gitignore.io/api/octave,python
 # Edit at https://www.gitignore.io/?templates=octave,python
 
