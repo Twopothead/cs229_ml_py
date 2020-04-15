@@ -5,7 +5,7 @@ implement [cs229(Machine Learning taught by Andrew Ng)](http://cs229.stanford.ed
 
 - [x] ex1  Linear Regression
 
-- ex2  Logistic Regression
+- [x] ex2  Logistic Regression
 
 - ex3  Multi-class Classification and Neural Networks
 
